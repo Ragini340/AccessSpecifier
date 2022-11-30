@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessSpecifier", "AccessSpecifier.csproj", "{31EDC7A7-6206-45D0-A3C4-1CAA2DB38142}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessSpecifierPOC", "..\AccessSpecifierPOC\AccessSpecifierPOC.csproj", "{5474784C-55CA-45A7-910A-CACC3EE84A84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31EDC7A7-6206-45D0-A3C4-1CAA2DB38142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31EDC7A7-6206-45D0-A3C4-1CAA2DB38142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31EDC7A7-6206-45D0-A3C4-1CAA2DB38142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31EDC7A7-6206-45D0-A3C4-1CAA2DB38142}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5474784C-55CA-45A7-910A-CACC3EE84A84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5474784C-55CA-45A7-910A-CACC3EE84A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5474784C-55CA-45A7-910A-CACC3EE84A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5474784C-55CA-45A7-910A-CACC3EE84A84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0A8E79C-FF2A-4B5F-89A2-518401EAACA6}
+	EndGlobalSection
+EndGlobal
